@@ -4,7 +4,7 @@
 
 I am usually making tiny useful android apps for daily use. Also can build paid apps. It's really fun. If you need any help please do dm me at this mail: shazzad.cse.97@gmail.com
 
-Skills: C || CPP || JAVA || MS Office || Article Writing || Mathemagician 
+Skills: C || CPP || JAVA || MS Office || Article Writing || Mathematics
 
 - 🔭 I’m currently working on Self-Employed 
 - 🌱 I’m currently learning CPP 
